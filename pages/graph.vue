@@ -181,4 +181,578 @@
   Pay with Ethereum
 </button>
 
+
+<div class="w-[1280px] h-[4557px] relative bg-white">
+  <div class="w-[1280px] h-[270.35px] left-0 top-[60px] absolute opacity-30 bg-gradient-to-l from-white via-amber-200 to-white"></div>
+  <div class="w-[1280px] h-[317px] left-0 top-[4171px] absolute">
+    <div class="w-[1280px] h-[317px] left-0 top-0 absolute bg-white"></div>
+    <div class="w-[869px] h-[237px] left-[160px] top-[64px] absolute">
+      <div class="left-[223px] top-[11px] absolute text-sky-700 text-xs font-light leading-[14.40px]">エビデンスのある、転職を。</div>
+      <div class="w-[196px] h-[37px] left-0 top-0 absolute"></div>
+      <div class="left-[467px] top-0 absolute text-sky-700 text-xs font-light leading-[14.40px]">オススメの求人       <br/>マイページ       <br/>スカウト       <br/>メッセージ</div>
+      <div class="left-[608px] top-0 absolute text-sky-700 text-xs font-light leading-[14.40px]">保存済み求人       <br/>応募済み求人       <br/>閲覧履歴       <br/>よくあるご質問       <br/>お問い合わせ</div>
+      <div class="left-[749px] top-0 absolute text-sky-700 text-xs font-light leading-[14.40px]">プライバシーポリシー       <br/>利用規約       <br/>企業の採用担当の方へ       <br/>運営会社</div>
+      <div class="w-[105px] h-[29px] left-[428px] top-[208px] absolute">
+        <div class="left-[15px] top-0 absolute text-sky-700 text-xs font-medium leading-7">WARC inc.</div>
+        <div class="left-0 top-0 absolute text-sky-700 text-xs font-medium leading-7">©️ </div>
+        <div class="left-[76px] top-0 absolute text-sky-700 text-xs font-medium leading-7">2023</div>
+      </div>
+    </div>
+  </div>
+  <div class="left-[108px] top-[117px] absolute justify-start items-start gap-6 inline-flex">
+    <div class="w-[760px] relative">
+      <div class="w-[760px] h-[3626px] pt-10 left-0 top-[427.45px] absolute flex-col justify-start items-center inline-flex">
+        <div class="self-stretch h-[241px] pb-8 flex-col justify-start items-start flex">
+          <div class="pb-2 justify-start items-center gap-1 inline-flex">
+            <div class="text-sky-700 text-base font-semibold leading-snug">インタビュー</div>
+          </div>
+          <div class="self-stretch pb-4 justify-start items-start gap-2.5 inline-flex">
+            <div class="grow shrink basis-0 text-zinc-900 text-[28px] font-semibold leading-[39.20px]">売上340%、組織300％成長！ 建設業界に「データ」でイノベーションを起こす「助太刀」の勝算</div>
+          </div>
+          <div class="self-stretch h-[60px] pb-8 flex-col justify-start items-start gap-2 flex">
+            <div class="justify-start items-start gap-2 inline-flex">
+              <div class="w-[59px] px-3 py-1.5 bg-blue-50 rounded-[14px] justify-start items-center gap-0.5 flex">
+                <div class="text-sky-700 text-xs font-semibold leading-[14.40px]">#</div>
+                <div class="text-sky-700 text-xs font-semibold leading-[14.40px]">経理</div>
+              </div>
+              <div class="w-[107px] px-3 py-1.5 bg-blue-50 rounded-[14px] justify-start items-center gap-0.5 flex">
+                <div class="text-sky-700 text-xs font-semibold leading-[14.40px]">#</div>
+                <div class="text-sky-700 text-xs font-semibold leading-[14.40px]">インタビュー</div>
+              </div>
+            </div>
+          </div>
+          <div class="self-stretch justify-between items-start gap-2.5 inline-flex">
+            <div class="pl-0.5 justify-end items-center gap-1.5 flex">
+              <img class="w-6 h-6 rounded-full" src="https://via.placeholder.com/24x24" />
+              <div class="text-zinc-900 text-sm font-light leading-snug">野村 真央</div>
+            </div>
+            <div class="justify-start items-center gap-2 flex">
+              <div class="w-[133px] justify-end items-start flex">
+                <div class="w-[133px] text-neutral-400 text-[13px] font-light leading-tight">更新日：2022/05/02</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="self-stretch h-[3296px] flex-col justify-start items-center flex">
+          <div class="self-stretch pb-8 bg-white justify-start items-start gap-2.5 inline-flex">
+            <div class="grow shrink basis-0 text-zinc-900 text-[15px] font-light leading-[30px] tracking-tight">市場規模60兆円を超える超巨大市場でありながら、深刻な人手不足が課題となる建設業界、その救世主となるか――。人材マッチングの「助太刀」が躍進を続ける。売上高は昨年対比約3.4倍（2022年2月期）、従業員数も約3倍へ。2022年8月には1フロア300坪超のオフィス移転を計画する。彼らが掲げるのは「建設現場を魅力ある職場に。」というミッション。強みは、唯一無二の人材データベース。建設業界にどのようなイノベーションを起こしていくのか。外資系コンサル等を経て、同社取締役COOを務める添田優作さん（38）を取材した。</div>
+          </div>
+          <div class="self-stretch h-[385px] pb-12 flex-col justify-start items-start flex">
+            <div class="self-stretch h-[337px] p-4 bg-sky-50 rounded-sm flex-col justify-start items-start flex">
+              <div class="self-stretch pb-4 justify-start items-center gap-2 inline-flex">
+                <div class="w-[13.75px] h-[11.60px] relative">
+                  <div class="w-2.5 h-0.5 left-[3.75px] top-0 absolute bg-sky-700"></div>
+                  <div class="w-0.5 h-0.5 left-0 top-0 absolute bg-sky-700 rounded-full"></div>
+                  <div class="w-2.5 h-0.5 left-[3.75px] top-[4.80px] absolute bg-sky-700"></div>
+                  <div class="w-0.5 h-0.5 left-0 top-[4.80px] absolute bg-sky-700 rounded-full"></div>
+                  <div class="w-2.5 h-0.5 left-[3.75px] top-[9.60px] absolute bg-sky-700"></div>
+                  <div class="w-0.5 h-0.5 left-0 top-[9.60px] absolute bg-sky-700 rounded-full"></div>
+                </div>
+                <div class="text-sky-700 text-[15px] font-semibold leading-normal">目次</div>
+              </div>
+              <div class="pb-2 flex-col justify-start items-start flex">
+                <div class="pl-2 pb-2 justify-start items-center gap-2 inline-flex">
+                  <div class="w-[18px] h-[18px] p-2.5 bg-sky-500 rounded-xl flex-col justify-center items-center gap-2.5 inline-flex">
+                    <div class="w-4 h-4 relative"></div>
+                  </div>
+                  <div class="text-sky-700 text-[15px] font-semibold leading-normal">見出しレベル2</div>
+                </div>
+              </div>
+              <div class="pl-2 pb-2 flex-col justify-start items-start flex">
+                <div class="pb-2 justify-start items-center gap-2 inline-flex">
+                  <div class="w-[18px] h-[18px] p-2.5 bg-sky-500 rounded-xl flex-col justify-center items-center gap-2.5 inline-flex">
+                    <div class="w-4 h-4 relative"></div>
+                  </div>
+                  <div class="text-sky-700 text-[15px] font-semibold leading-normal">見出しレベル2</div>
+                </div>
+                <div class="pl-4 pb-2 justify-start items-center gap-[5px] inline-flex">
+                  <div class="w-1.5 h-1.5 bg-sky-300 rounded-full"></div>
+                  <div class="text-sky-700 text-[13px] font-light leading-tight">見出しレベル3</div>
+                </div>
+                <div class="pl-4 pb-2 justify-start items-center gap-[5px] inline-flex">
+                  <div class="w-1.5 h-1.5 bg-sky-300 rounded-full"></div>
+                  <div class="text-sky-700 text-[13px] font-light leading-tight">見出しレベル3</div>
+                </div>
+              </div>
+              <div class="pl-2 pb-2 flex-col justify-start items-start flex">
+                <div class="pb-2 justify-start items-center gap-2 inline-flex">
+                  <div class="w-[18px] h-[18px] p-2.5 bg-sky-500 rounded-xl flex-col justify-center items-center gap-2.5 inline-flex">
+                    <div class="w-4 h-4 relative"></div>
+                  </div>
+                  <div class="text-sky-700 text-[15px] font-semibold leading-normal">見出しレベル2</div>
+                </div>
+                <div class="pl-4 pb-2 justify-start items-center gap-[5px] inline-flex">
+                  <div class="w-1.5 h-1.5 bg-sky-300 rounded-full"></div>
+                  <div class="text-sky-700 text-[13px] font-light leading-tight">見出しレベル3</div>
+                </div>
+                <div class="pl-8 pb-2 justify-start items-center gap-[5px] inline-flex">
+                  <div class="w-1.5 h-1.5 bg-sky-300 rounded-full"></div>
+                  <div class="text-sky-700 text-[13px] font-light leading-tight">見出しレベル4</div>
+                </div>
+                <div class="pl-12 pb-2 justify-start items-center gap-[5px] inline-flex">
+                  <div class="w-1.5 h-1.5 bg-sky-300 rounded-full"></div>
+                  <div class="text-sky-700 text-[13px] font-light leading-tight">見出しレベル5</div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="self-stretch h-[334px] pb-12 bg-white flex-col justify-start items-start gap-2.5 flex">
+            <div class="self-stretch h-[286px] flex-col justify-start items-start flex">
+              <div class="self-stretch pb-3 justify-start items-start gap-2.5 inline-flex">
+                <div class="grow shrink basis-0 text-zinc-900 text-lg font-semibold leading-relaxed">市場規模60兆円を超える超巨大市場</div>
+              </div>
+              <div class="self-stretch text-zinc-800 text-[15px] font-light leading-[30px] tracking-tight">市場規模60兆円を超える超巨大市場でありながら、深刻な人手不足が課題となる建設業界、その救世主となるか――。人材マッチングの「助太刀」が躍進を続ける。売上高は昨年対比約3.4倍（2022年2月期）、従業員数も約3倍へ。2022年8月には1フロア300坪超のオフィス移転を計画する。彼らが掲げるのは「建設現場を魅力ある職場に。」というミッション。強みは、唯一無二の人材データベース。建設業界にどのようなイノベーションを起こしていくのか。外資系コンサル等を経て、同社取締役COOを務める添田優作さん（38）を取材した。</div>
+              <div class="self-stretch h-[68px] pt-5 flex-col justify-start items-center flex">
+                <div class="w-[328px] h-12 px-2 py-1 bg-orange-600 rounded justify-center items-start gap-2.5 inline-flex">
+                  <div class="w-[280px] self-stretch text-center text-white text-sm font-semibold leading-tight">SYNCAに無料で新規登録</div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="justify-start items-center inline-flex">
+            <div class="justify-start items-start gap-2.5 flex">
+              <div class="text-zinc-900 text-[15px] font-light leading-[30px] tracking-tight">売上高は昨年対比</div>
+            </div>
+            <div class="px-0.5 justify-start items-start gap-2.5 flex">
+              <div class="w-[55px] h-2.5 bg-yellow-300"></div>
+              <div class="text-zinc-900 text-[15px] font-light leading-[30px] tracking-tight">約3.4倍</div>
+            </div>
+            <div class="justify-start items-start gap-2.5 flex">
+              <div class="text-zinc-900 text-[15px] font-light leading-[30px] tracking-tight">(2022年2月期)である</div>
+            </div>
+          </div>
+          <div class="self-stretch pb-8 bg-white justify-start items-start gap-2.5 inline-flex">
+            <div class="grow shrink basis-0 text-zinc-900 text-[15px] font-light leading-[30px] tracking-tight">この文章はダミーです。親譲りの無鉄砲で小供の時から損ばかりしている。小学校に居る時分学校の二階から飛び降りて一週間ほど腰を抜かした事がある。なぜそんな無闇をしたと聞く人があるかも知れぬ。別段深い理由でもない。</div>
+          </div>
+          <div class="self-stretch h-[225px] pb-8 flex-col justify-start items-start flex">
+            <div class="w-[520px] pb-[5px] justify-start items-start inline-flex">
+              <div class="p-2 justify-start items-start gap-2.5 flex">
+                <div class="w-1.5 h-1.5 bg-zinc-400 rounded-full"></div>
+              </div>
+              <div class="grow shrink basis-0 h-6 justify-start items-start gap-2.5 flex">
+                <div class="grow shrink basis-0 text-zinc-900 text-[15px] font-light leading-normal">マグロ</div>
+              </div>
+            </div>
+            <div class="w-[520px] pb-[5px] justify-start items-start inline-flex">
+              <div class="p-2 justify-start items-start gap-2.5 flex">
+                <div class="w-1.5 h-1.5 bg-zinc-400 rounded-full"></div>
+              </div>
+              <div class="grow shrink basis-0 h-6 justify-start items-start gap-2.5 flex">
+                <div class="grow shrink basis-0 text-zinc-900 text-[15px] font-light leading-normal">カツオ</div>
+              </div>
+            </div>
+            <div class="w-[520px] pb-[5px] justify-start items-start inline-flex">
+              <div class="p-2 justify-start items-start gap-2.5 flex">
+                <div class="w-1.5 h-1.5 bg-zinc-400 rounded-full"></div>
+              </div>
+              <div class="grow shrink basis-0 h-6 justify-start items-start gap-2.5 flex">
+                <div class="grow shrink basis-0 text-zinc-900 text-[15px] font-light leading-normal">炙りもの</div>
+              </div>
+            </div>
+            <div class="w-[520px] pl-3 pb-[5px] justify-start items-start inline-flex">
+              <div class="p-2 justify-start items-start gap-2.5 flex">
+                <div class="w-1.5 h-1.5 bg-zinc-400 rounded-full"></div>
+              </div>
+              <div class="h-12 justify-start items-start gap-2.5 flex">
+                <div class="grow shrink basis-0 text-zinc-900 text-[15px] font-light leading-normal">この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。</div>
+              </div>
+            </div>
+            <div class="w-[520px] pl-3 pb-[5px] justify-start items-start inline-flex">
+              <div class="h-12 justify-start items-start gap-2.5 flex">
+                <div class="grow shrink basis-0 text-zinc-900 text-[15px] font-light leading-normal">この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。</div>
+              </div>
+            </div>
+          </div>
+          <div class="self-stretch h-[177px] pb-8 flex-col justify-start items-start flex">
+            <div class="w-[520px] pb-[5px] justify-start items-center inline-flex">
+              <div class="pr-[5px] justify-start items-start gap-2.5 flex">
+                <div class="text-zinc-400 text-sm font-semibold leading-snug">1.</div>
+              </div>
+              <div class="justify-start items-start gap-2.5 flex">
+                <div class="w-[502px] text-zinc-900 text-[15px] font-light leading-normal">マグロ</div>
+              </div>
+            </div>
+            <div class="w-[520px] pb-[5px] justify-start items-center inline-flex">
+              <div class="pr-[5px] justify-start items-start gap-2.5 flex">
+                <div class="text-zinc-400 text-sm font-semibold leading-snug">2.</div>
+              </div>
+              <div class="justify-start items-start gap-2.5 flex">
+                <div class="w-[502px] text-zinc-900 text-[15px] font-light leading-normal">カツオ</div>
+              </div>
+            </div>
+            <div class="w-[520px] pb-[5px] justify-start items-center inline-flex">
+              <div class="pr-[5px] justify-start items-start gap-2.5 flex">
+                <div class="text-zinc-400 text-sm font-semibold leading-snug">3.</div>
+              </div>
+              <div class="justify-start items-start gap-2.5 flex">
+                <div class="w-[502px] text-zinc-900 text-[15px] font-light leading-normal">タイ</div>
+              </div>
+            </div>
+            <div class="w-[520px] pl-3 pb-[5px] justify-start items-start inline-flex">
+              <div class="pr-[5px] justify-start items-start gap-2.5 flex">
+                <div class="text-zinc-400 text-sm font-semibold leading-snug">1.</div>
+              </div>
+              <div class="h-6 justify-start items-start gap-2.5 flex">
+                <div class="w-[490px] text-zinc-900 text-[15px] font-light leading-normal">黒鯛</div>
+              </div>
+            </div>
+            <div class="w-[520px] pb-[5px] justify-start items-center inline-flex">
+              <div class="pr-[5px] justify-start items-start gap-2.5 flex">
+                <div class="text-zinc-400 text-sm font-semibold leading-snug">4.</div>
+              </div>
+              <div class="justify-start items-start gap-2.5 flex">
+                <div class="w-[502px] text-zinc-900 text-[15px] font-light leading-normal">ヒラメ</div>
+              </div>
+            </div>
+          </div>
+          <div class="pb-8 flex-col justify-start items-center flex">
+            <div class="h-[346px] pb-2 rounded-sm flex-col justify-start items-center gap-2.5 flex">
+              <div class="w-[600px] h-[338px] bg-white border border-gray-200 flex-col justify-center items-center gap-2.5 flex">
+                <img class="w-[598px] h-[284.76px]" src="https://via.placeholder.com/598x285" />
+              </div>
+            </div>
+            <div class="text-neutral-500 text-[13px] font-light leading-tight">画像のキャプションテキストです</div>
+          </div>
+          <div class="self-stretch pb-8 justify-start items-start inline-flex">
+            <div class="px-0.5 justify-start items-start flex">
+              <div class="text-sky-700 text-[15px] font-light leading-[30px] tracking-tight">寿司 - Wikipedia</div>
+            </div>
+            <div class="text-zinc-900 text-[15px] font-light leading-[30px] tracking-tight">に載ってます</div>
+          </div>
+          <div class="self-stretch h-[94px] pb-8 flex-col justify-start items-start flex">
+            <div class="self-stretch h-[62px] px-3 py-4 bg-gray-100 rounded-sm flex-col justify-center items-start gap-2.5 flex">
+              <div class="self-stretch grow shrink basis-0 text-zinc-800 text-[15px] font-light leading-[30px] tracking-tight">お寿司が食べたいです</div>
+            </div>
+          </div>
+          <div class="self-stretch pb-8 bg-white justify-start items-start gap-2.5 inline-flex">
+            <div class="grow shrink basis-0 text-zinc-900 text-[15px] font-light leading-[30px] tracking-tight">この文章はダミーです。親譲りの無鉄砲で小供の時から損ばかりしている。小学校に居る時分学校の二階から飛び降りて一週間ほど腰を抜かした事がある。なぜそんな無闇をしたと聞く人があるかも知れぬ。別段深い理由でもない。</div>
+          </div>
+          <div class="self-stretch h-[356px] pb-8 flex-col justify-start items-start flex">
+            <div class="w-[719px] justify-start items-start inline-flex">
+              <div class="w-36 self-stretch p-3 bg-sky-50 border-b border-gray-200 justify-center items-center gap-2.5 flex">
+                <div class="text-center text-sky-600 text-[15px] font-semibold leading-[21px]">転職エージェント<br/>おすすめ</div>
+              </div>
+              <div class="grow shrink basis-0 flex-col justify-start items-start inline-flex">
+                <div class="self-stretch justify-start items-start inline-flex">
+                  <div class="h-[45px] p-3 bg-sky-500 border-r border-white justify-center items-center gap-2.5 flex">
+                    <div class="text-center text-white text-[15px] font-semibold leading-[21px]">当サイトイチオシ</div>
+                  </div>
+                  <div class="h-[45px] p-3 bg-sky-500 border-r border-gray-200 justify-center items-center gap-2.5 flex">
+                    <div class="grow shrink basis-0 text-center text-white text-[15px] font-semibold leading-[21px]">【20代・未経験向け】</div>
+                  </div>
+                </div>
+                <div class="self-stretch justify-start items-start inline-flex">
+                  <div class="h-[45px] p-3 bg-sky-200 border-r border-white justify-center items-center gap-2.5 flex">
+                    <div class="text-center text-sky-600 text-[15px] font-semibold leading-[21px]">リクルートエージェント</div>
+                  </div>
+                  <div class="h-[45px] p-3 bg-sky-200 border-r border-white justify-center items-center gap-2.5 flex">
+                    <div class="grow shrink basis-0 text-center text-sky-600 text-[15px] font-semibold leading-[21px]">マイナビエージェント</div>
+                  </div>
+                  <div class="h-[45px] p-3 bg-sky-200 justify-center items-center gap-2.5 flex">
+                    <div class="grow shrink basis-0 text-center text-sky-600 text-[15px] font-semibold leading-[21px]">doda</div>
+                  </div>
+                </div>
+                <div class="self-stretch justify-start items-start inline-flex">
+                  <div class="h-36 p-3 border-r border-b border-gray-200 justify-center items-center gap-2.5 flex">
+                    <img class="w-[120px] h-[120px]" src="https://via.placeholder.com/120x120" />
+                  </div>
+                  <div class="h-36 p-3 border-r border-b border-gray-200 justify-center items-center gap-2.5 flex">
+                    <img class="w-[120px] h-[120px]" src="https://via.placeholder.com/120x120" />
+                  </div>
+                  <div class="h-36 p-3 border-b border-gray-200 justify-center items-center gap-2.5 flex">
+                    <img class="w-[120px] h-[120px]" src="https://via.placeholder.com/120x120" />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="w-[719px] justify-start items-start inline-flex">
+              <div class="w-36 self-stretch p-3 bg-sky-50 border-b border-gray-200 justify-center items-center gap-2.5 flex">
+                <div class="grow shrink basis-0 self-stretch text-center text-sky-600 text-[15px] font-semibold leading-[21px]">公開求人数</div>
+              </div>
+              <div class="w-52 self-stretch p-3 border-r border-b border-gray-200 justify-start items-start gap-2.5 flex">
+                <div class="grow shrink basis-0 text-center text-zinc-800 text-[15px] font-light leading-[21px] tracking-tight">352,457件</div>
+              </div>
+              <div class="w-52 self-stretch p-3 border-r border-b border-gray-200 justify-start items-start gap-2.5 flex">
+                <div class="grow shrink basis-0 text-center text-zinc-800 text-[15px] font-light leading-[21px] tracking-tight">非公開</div>
+              </div>
+              <div class="w-52 self-stretch p-3 border-b border-gray-200 justify-start items-start gap-2.5 flex">
+                <div class="grow shrink basis-0 text-center text-zinc-800 text-[15px] font-light leading-[21px] tracking-tight">187,776件</div>
+              </div>
+            </div>
+            <div class="w-[719px] justify-start items-start inline-flex">
+              <div class="w-36 self-stretch p-3 bg-sky-50 border-b border-gray-200 justify-center items-center gap-2.5 flex">
+                <div class="grow shrink basis-0 self-stretch text-center text-sky-600 text-[15px] font-semibold leading-[21px]">非公開求人数</div>
+              </div>
+              <div class="w-52 self-stretch p-3 border-r border-b border-gray-200 justify-start items-start gap-2.5 flex">
+                <div class="grow shrink basis-0 text-center text-zinc-800 text-[15px] font-light leading-[21px] tracking-tight">非公開</div>
+              </div>
+              <div class="w-52 self-stretch p-3 border-r border-b border-gray-200 justify-start items-start gap-2.5 flex">
+                <div class="grow shrink basis-0 text-center text-zinc-800 text-[15px] font-light leading-[21px] tracking-tight">非公開</div>
+              </div>
+              <div class="w-52 self-stretch p-3 border-b border-gray-200 justify-start items-start gap-2.5 flex">
+                <div class="grow shrink basis-0 text-center text-zinc-800 text-[15px] font-light leading-[21px] tracking-tight">非公開</div>
+              </div>
+            </div>
+          </div>
+          <div class="self-stretch h-[146px] pb-8 flex-col justify-start items-start flex">
+            <div class="self-stretch p-3 bg-sky-50 border border-sky-200 justify-start items-start inline-flex">
+              <div class="grow shrink basis-0 text-zinc-900 text-[15px] font-light leading-[30px] tracking-tight">この文章はダミーです。親譲りの無鉄砲で小供の時から損ばかりしている。小学校に居る時分学校の二階から飛び降りて一週間ほど腰を抜かした事がある。なぜそんな無闇をしたと聞く人があるかも知れぬ。別段深い理由でもない。</div>
+            </div>
+          </div>
+          <div class="self-stretch h-[334px] pb-12 bg-white flex-col justify-start items-start gap-2.5 flex">
+            <div class="self-stretch h-[286px] flex-col justify-start items-start flex">
+              <div class="self-stretch pb-3 justify-start items-start gap-2.5 inline-flex">
+                <div class="grow shrink basis-0 text-zinc-900 text-lg font-semibold leading-relaxed">市場規模60兆円を超える超巨大市場</div>
+              </div>
+              <div class="self-stretch text-zinc-800 text-[15px] font-light leading-[30px] tracking-tight">市場規模60兆円を超える超巨大市場でありながら、深刻な人手不足が課題となる建設業界、その救世主となるか――。人材マッチングの「助太刀」が躍進を続ける。売上高は昨年対比約3.4倍（2022年2月期）、従業員数も約3倍へ。2022年8月には1フロア300坪超のオフィス移転を計画する。彼らが掲げるのは「建設現場を魅力ある職場に。」というミッション。強みは、唯一無二の人材データベース。建設業界にどのようなイノベーションを起こしていくのか。外資系コンサル等を経て、同社取締役COOを務める添田優作さん（38）を取材した。</div>
+              <div class="self-stretch h-[68px] pt-5 flex-col justify-start items-center flex">
+                <div class="w-[328px] h-12 px-2 py-1 bg-orange-600 rounded justify-center items-start gap-2.5 inline-flex">
+                  <div class="w-[280px] self-stretch text-center text-white text-sm font-semibold leading-tight">SYNCAに無料で新規登録</div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="self-stretch h-[298px] px-6 pt-5 pb-6 bg-white rounded border border-gray-200 flex-col justify-start items-start flex">
+            <div class="self-stretch pb-3 justify-start items-center gap-4 inline-flex">
+              <div class="w-[72px] h-[72px] relative">
+                <div class="w-[72px] h-[72px] left-0 top-0 absolute bg-zinc-300 rounded-full"></div>
+                <img class="w-64 h-[143px] left-[-121px] top-0 absolute" src="https://via.placeholder.com/256x143" />
+              </div>
+              <div class="grow shrink basis-0 flex-col justify-center items-start gap-0.5 inline-flex">
+                <div class="self-stretch text-zinc-800 text-base font-semibold leading-snug">Soogo Management株式会社 キャリアアドバイザー</div>
+                <div class="self-stretch text-zinc-800 text-base font-semibold leading-snug">進化 太郎</div>
+              </div>
+            </div>
+            <div class="self-stretch h-[170px] flex-col justify-start items-start flex">
+              <div class="self-stretch pb-4 justify-start items-start inline-flex">
+                <div class="w-[712px] text-stone-500 text-[13px] font-light leading-tight">管理部門に特化した転職サイト「SYNCA」を運営するSYNCA編集部です。経理・人事・労務・経営企画の転職やキャリア形成に役立つ情報をお届けいたします。管理部門に特化した転職サイト「SYNCA」を運営するSYNCA編集部です。経理・人事・労務・経営企画の転職やキャリア形成に役立つ情報をお届けいたします。</div>
+              </div>
+              <div class="self-stretch pb-5 justify-start items-start inline-flex">
+                <div class="text-stone-500 text-[13px] font-light leading-[18.20px] tracking-tight">保有資格：</div>
+                <div class="grow shrink basis-0 flex-col justify-start items-start gap-0.5 inline-flex">
+                  <div class="justify-start items-start gap-0.5 inline-flex">
+                    <div class="text-sky-700 text-[13px] font-light leading-[18.20px] tracking-tight">キャリアコンサルタント</div>
+                    <div class="text-zinc-400 text-[13px] font-light leading-[18.20px] tracking-tight">/</div>
+                    <div class="text-sky-700 text-[13px] font-light leading-[18.20px] tracking-tight">社会保険労務士</div>
+                    <div class="text-zinc-400 text-[13px] font-light leading-[18.20px] tracking-tight">/</div>
+                    <div class="text-sky-700 text-[13px] font-light leading-[18.20px] tracking-tight">産業カウンセラー</div>
+                    <div class="text-zinc-400 text-[13px] font-light leading-[18.20px] tracking-tight">/</div>
+                    <div class="text-sky-700 text-[13px] font-light leading-[18.20px] tracking-tight">人事総務検定1級</div>
+                    <div class="text-zinc-400 text-[13px] font-light leading-[18.20px] tracking-tight">/</div>
+                    <div class="text-sky-700 text-[13px] font-light leading-[18.20px] tracking-tight">メンタルヘルス・マネジ</div>
+                  </div>
+                  <div class="justify-start items-start gap-2.5 inline-flex">
+                    <div class="text-sky-700 text-[13px] font-light leading-[18.20px] tracking-tight">メント検定</div>
+                  </div>
+                </div>
+              </div>
+              <div class="self-stretch justify-between items-center gap-4 inline-flex">
+                <div class="justify-start items-start gap-4 flex">
+                  <div class="w-6 h-6 pl-px pt-[3px] pb-[1.83px] justify-center items-center flex"></div>
+                  <div class="w-6 h-6 p-px justify-center items-center flex">
+                    <div class="w-[22px] h-[22px] relative">
+                    </div>
+                  </div>
+                  <div class="w-6 h-6 relative">
+                    <div class="w-[18px] h-[18px] left-[3px] top-[3px] absolute bg-white"></div>
+                    <img class="w-[21px] h-[21px] left-[1.50px] top-[1.50px] absolute" src="https://via.placeholder.com/21x21" />
+                  </div>
+                  <div class="w-6 h-6 relative"></div>
+                  <div class="w-6 h-6 relative">
+                    <div class="w-[22px] h-[22px] left-[1px] top-[1px] absolute bg-zinc-400 rounded-full"></div>
+                  </div>
+                </div>
+                <div class="px-2 py-1 rounded justify-center items-center gap-0.5 flex">
+                  <div class="text-center text-sky-700 text-sm font-semibold leading-snug">この著者の他の記事</div>
+                  <div class="w-4 h-4 relative"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="self-stretch py-4 justify-start items-center gap-1 inline-flex">
+          <div class="text-sky-700 text-xs font-light leading-none tracking-tight">SYNCAトップ</div>
+          <div class="text-neutral-400 text-xs font-light leading-none tracking-tight">/</div>
+          <div class="text-sky-700 text-xs font-light leading-none tracking-tight">記事一覧</div>
+          <div class="text-neutral-400 text-xs font-light leading-none tracking-tight">/</div>
+          <div class="text-zinc-800 text-xs font-light leading-none tracking-tight">株式会社Gaudiy 橋本さん</div>
+        </div>
+      </div>
+      <img class="w-[760px] h-[427.45px] left-0 top-0 absolute rounded-sm" src="https://via.placeholder.com/760x427" />
+    </div>
+    <div class="flex-col justify-start items-start gap-4 inline-flex">
+      <div class="w-72 h-[340px] relative bg-white border border-gray-100">
+        <div class="w-72 h-[76px] left-0 top-[264px] absolute">
+          <div class="w-36 h-[76px] left-[144px] top-0 absolute">
+            <div class="w-36 h-[76px] left-0 top-0 absolute bg-zinc-300"></div>
+            <img class="w-[419px] h-[235px] left-[-175px] top-[-108px] absolute" src="https://via.placeholder.com/419x235" />
+          </div>
+          <div class="w-[143px] h-[76px] left-0 top-0 absolute">
+            <div class="w-[143px] h-[76px] left-0 top-0 absolute bg-zinc-300"></div>
+            <img class="w-[391px] h-[220px] left-[-166px] top-[-75px] absolute" src="https://via.placeholder.com/391x220" />
+          </div>
+        </div>
+        <div class="left-0 top-[264px] absolute justify-start items-start gap-px inline-flex">
+          <div class="w-[143px] h-[76px] p-3 bg-sky-600 bg-opacity-60 backdrop-blur-[10px] flex-col justify-center items-center gap-2 inline-flex">
+            <div class="pr-0.5 justify-start items-end gap-0.5 inline-flex">
+              <div class="text-white text-[13px] font-black leading-[14px] tracking-wide">年収</div>
+              <div class="text-white text-2xl font-bold leading-[17px]">900</div>
+              <div class="text-white text-[13px] font-black leading-[14px] tracking-wide">万円</div>
+            </div>
+            <div class="flex-col justify-center items-center gap-1 flex">
+              <div class="text-white text-[11px] font-medium leading-[11px]">東証プライム上場企業</div>
+              <div class="justify-start items-end gap-0.5 inline-flex">
+                <div class="text-white text-[11px] font-medium leading-[11px]">賞与</div>
+                <div class="text-white text-[11px] font-medium leading-[11px]">ヶ月</div>
+              </div>
+            </div>
+          </div>
+          <div class="w-36 h-[76px] p-3 bg-white bg-opacity-60 backdrop-blur-[14px] flex-col justify-center items-center gap-1 inline-flex">
+            <div class="pr-0.5 justify-center items-start inline-flex">
+              <div class="justify-start items-start flex">
+                <div class="text-sky-700 text-[17px] font-black leading-none">リモ</div>
+                <div class="justify-start items-start flex">
+                  <div class="text-sky-700 text-base font-bold leading-none">−</div>
+                  <div><span style="text-sky-700 text-[17px] font-black leading-none">ト</span><span style="text-sky-700 text-[17px] font-black leading-none">ワ</span></div>
+                </div>
+                <div class="justify-start items-start flex">
+                  <div class="text-sky-700 text-base font-bold leading-none">−</div>
+                  <div class="text-sky-700 text-[17px] font-black leading-none">ク</div>
+                </div>
+              </div>
+              <div class="text-sky-700 text-[11px] font-black leading-[21px]">可能</div>
+            </div>
+            <div class="flex-col justify-start items-center gap-1 flex">
+              <div class="justify-start items-start gap-0.5 inline-flex">
+                <div class="justify-start items-start flex">
+                  <div class="text-sky-700 text-[11px] font-medium leading-[11px]"> 残業無し</div>
+                  <div class="text-sky-700 text-[11px] font-medium leading-[11px]">/</div>
+                </div>
+                <div class="text-sky-700 text-[11px] font-medium leading-[11px]">働きやすい企業</div>
+              </div>
+              <div class="justify-start items-end gap-0.5 inline-flex">
+                <div class="text-sky-700 text-[11px] font-medium leading-[11px]">年間休日</div>
+                <div class="justify-start items-end gap-px flex">
+                  <div class="text-sky-700 text-[11px] font-medium leading-[11px]">日</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="w-72 h-[150px] left-0 top-[114px] absolute">
+          <div class="w-36 h-[150px] left-[144px] top-0 absolute">
+            <div class="w-36 h-[150px] left-0 top-0 absolute bg-zinc-300"></div>
+            <img class="w-[340px] h-[191px] left-[-119.50px] top-[-9px] absolute" src="https://via.placeholder.com/340x191" />
+          </div>
+          <div class="w-[143px] h-[150px] left-0 top-0 absolute">
+            <div class="w-[143px] h-[150px] left-0 top-0 absolute bg-zinc-300"></div>
+            <img class="w-[335.50px] h-[189px] left-[-126px] top-0 absolute" src="https://via.placeholder.com/336x189" />
+          </div>
+        </div>
+        <div class="left-[22px] top-[40px] absolute flex-col justify-start items-center gap-1.5 inline-flex">
+          <div class="justify-start items-end inline-flex">
+            <div class="text-sky-700 text-[32px] font-bold leading-loose">好条件</div>
+            <div class="text-sky-700 text-[28px] font-bold leading-7">での</div>
+            <div class="text-sky-700 text-[32px] font-bold leading-loose">転職</div>
+            <div class="text-sky-700 text-[28px] font-bold leading-7">を</div>
+          </div>
+          <div class="w-[244px] h-2 bg-yellow-200"></div>
+          <div class="text-sky-700 text-[22px] font-bold leading-snug">検討中のあなたに</div>
+        </div>
+        <div class="w-72 py-1.5 left-0 top-[1px] absolute bg-sky-700 justify-center items-center gap-[5px] inline-flex">
+          <div class="w-[53.06px] h-[10.17px] relative">
+            <div class="w-[53.06px] h-[10.17px] left-0 top-[-0px] absolute">
+            </div>
+            <div class="w-[53.06px] h-[10.17px] left-0 top-0 absolute"></div>
+          </div>
+          <div class="text-white text-[9px] font-semibold leading-[13px] tracking-tight">管理部門･バックオフィス人材専門の転職サイト</div>
+        </div>
+      </div>
+      <div class="w-72 h-72 relative bg-white border border-gray-100">
+        <img class="w-[302px] h-[282px] left-[-65px] top-[-59px] absolute" src="https://via.placeholder.com/302x282" />
+        <div class="w-[62.53px] h-[72.09px] left-[220px] top-[61px] absolute">
+          <div class="origin-top-left rotate-[-5.15deg] w-[50.42px] h-[48.77px] left-0 top-[23.53px] absolute">
+          </div>
+          <div class="origin-top-left rotate-[-149.38deg] w-[34.04px] h-[18.13px] left-[62.53px] top-[17.34px] absolute">
+          </div>
+        </div>
+        <div class="w-[170.49px] h-[173.66px] left-[106px] top-[90px] absolute">
+        </div>
+        <div class="w-[276px] pl-[17px] pr-4 py-[18px] left-[6px] top-[221px] absolute bg-cyan-500 rounded-[11px] shadow justify-start items-start gap-0.5 inline-flex">
+          <div class="text-white text-[21px] font-semibold leading-snug tracking-wide">採用担当者様はこちら</div>
+          <div class="text-white text-lg font-bold leading-snug tracking-wide">􀁵</div>
+        </div>
+        <div class="left-[13px] top-[9px] absolute">
+          <div class="left-0 top-[39px] absolute text-cyan-500 text-[31px] font-bold leading-[37.20px] tracking-wider">管理部門人材の</div>
+          <div class="left-0 top-[78px] absolute text-cyan-500 text-[31px] font-bold leading-[37.20px] tracking-wide">採用なら</div>
+          <div class="left-0 top-[117px] absolute text-cyan-500 text-[31px] font-bold leading-[37.20px] tracking-wide">SYNCA</div>
+          <div class="left-0 top-0 absolute text-cyan-500 text-[31px] font-bold leading-[37.20px] tracking-widest">優秀な</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="w-[1064px] pt-6 pb-4 left-[108px] top-[60px] absolute justify-start items-center gap-1 inline-flex">
+    <div class="text-sky-700 text-xs font-light leading-none tracking-tight">SYNCAトップ</div>
+    <div class="text-neutral-400 text-xs font-light leading-none tracking-tight">/</div>
+    <div class="text-sky-700 text-xs font-light leading-none tracking-tight">記事一覧</div>
+    <div class="text-neutral-400 text-xs font-light leading-none tracking-tight">/</div>
+    <div class="text-zinc-900 text-xs font-light leading-none tracking-tight">株式会社Gaudiy 橋本さん</div>
+  </div>
+  <div class="w-[1280px] px-6 py-2.5 left-0 top-0 absolute bg-white shadow justify-start items-start inline-flex">
+    <div class="grow shrink basis-0 self-stretch justify-start items-center gap-16 flex">
+      <div class="self-stretch flex-col justify-center items-start gap-2.5 inline-flex">
+        <div class="w-[130px] h-6 relative"></div>
+      </div>
+      <div class="rounded border border-sky-700 justify-start items-center flex">
+        <div class="h-10 pl-4 pr-2 py-2 rounded-tl-sm rounded-bl-sm justify-start items-start flex">
+          <div class="grow shrink basis-0 text-gray-200 text-sm font-light leading-snug">職種</div>
+          <div class="w-6 h-6 relative"></div>
+        </div>
+        <div class="w-[38px] h-[0px] origin-top-left rotate-90 border border-zinc-100"></div>
+        <div class="h-10 pl-4 pr-2 py-2 rounded-tl-sm rounded-bl-sm justify-start items-start flex">
+          <div class="grow shrink basis-0 text-gray-200 text-sm font-light leading-snug">年収</div>
+          <div class="w-6 h-6 relative"></div>
+        </div>
+        <div class="w-[38px] h-[0px] origin-top-left rotate-90 border border-zinc-100"></div>
+        <div class="h-10 pl-4 pr-2 py-2 rounded-tl-sm rounded-bl-sm justify-start items-start flex">
+          <div class="grow shrink basis-0 text-gray-200 text-sm font-light leading-snug">業種</div>
+          <div class="w-6 h-6 relative"></div>
+        </div>
+        <div class="w-12 h-10 relative">
+          <div class="w-12 h-10 left-0 top-0 absolute bg-sky-700 rounded-tr rounded-br"></div>
+          <div class="w-6 h-6 left-[12px] top-[8px] absolute"></div>
+        </div>
+      </div>
+    </div>
+    <div class="justify-start items-center gap-4 flex">
+      <div class="justify-start items-start gap-3 flex">
+        <div class="w-[120px] h-10 px-6 pt-[9px] pb-2.5 bg-amber-600 rounded justify-center items-center gap-1 flex">
+          <div class="text-white text-[13px] font-semibold leading-tight">会員登録</div>
+        </div>
+        <div class="w-[120px] h-10 px-6 pt-[9px] pb-2.5 bg-sky-700 rounded justify-center items-center gap-1 flex">
+          <div class="text-white text-[13px] font-semibold leading-tight">ログイン</div>
+        </div>
+      </div>
+      <div class="w-8 h-8 relative">
+        <div class="w-[22px] h-[0px] left-[5px] top-[16px] absolute border border-sky-700"></div>
+        <div class="w-[22px] h-[0px] left-[5px] top-[9px] absolute border border-sky-700"></div>
+        <div class="w-[22px] h-[0px] left-[5px] top-[23px] absolute border border-sky-700"></div>
+      </div>
+    </div>
+  </div>
+  <div class="h-[68px] px-5 py-3 left-0 top-[4489px] absolute bg-white bg-opacity-90 backdrop-blur-sm flex-col justify-start items-center gap-2.5 inline-flex">
+    <div class="w-[360px] h-11 px-2 py-1 bg-orange-600 rounded justify-center items-center gap-1.5 inline-flex">
+      <div class="w-6 h-6 pl-[4.73px] pr-[1.22px] pt-[2.63px] pb-[0.24px] justify-center items-center flex">
+        <div class="w-[18.06px] h-[21.13px] relative">
+          <div class="origin-top-left -rotate-45 w-[7px] h-[9.60px] left-[6.32px] top-[14.34px] absolute">
+            <div class="w-[7px] h-[7px] left-0 top-0 absolute origin-top-left -rotate-45 rounded-full border border-white"></div>
+            <div class="w-[1.50px] h-1 left-[5.90px] top-[2.01px] absolute origin-top-left -rotate-45 bg-white"></div>
+          </div>
+        </div>
+      </div>
+      <div class="text-center text-white text-[13px] font-semibold leading-[18.20px]">今すぐ無料で求人を探す</div>
+    </div>
+  </div>
+</div>
+
 </template>
